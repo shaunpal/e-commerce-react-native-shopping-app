@@ -7,7 +7,7 @@ export const ItemProvider = props => {
         books: [
           {id: 101, description: "Lord of the Flies by William Golding", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/books/lord-of-the-flies.png", price: "27.68", category: "Books"},
           {id: 102, description: "Pack Up the Moon by Kristan Higgins", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/books/Pack%20up%20the%20Moon%20by%20Kristan%20Higgins.jpg", price: "19.58", category: "Books"},
-          {id: 103, description: "The LowLand by Jhumpa Lahiri", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/books/The%20LowLand%20by%20Jhumpa%20Lahiri.jpg", price: "18.95", category: "Books"}
+          {id: 103, description: "The LowLand by Jhumpa Lahiri", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/books/The%20LowLand%20by%20Jhumpa%20Lahiri.jpg", price: "18.95", category: "Books"}
         ],
         clothing: [
             { id: 111, description: "Black Zipped Jacket", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/clothing/Black%20Zipped%20Jacket.jpeg", price: "49.68", category: "Clothing" },
