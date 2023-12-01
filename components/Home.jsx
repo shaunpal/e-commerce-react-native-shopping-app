@@ -3,7 +3,6 @@ import React, {useRef, useState, useContext} from 'react'
 import { StyleSheet, Text, View, SafeAreaView, Image, ScrollView, Dimensions } from 'react-native'
 import Carousel from 'react-native-snap-carousel';
 import CarouselCardItem, { SLIDER_WIDTH, ITEM_WIDTH } from './CarouselItem';
-// import CustomSlideItem from './ImageSliderItem';
 import { SliderBox } from 'react-native-image-slider-box';
 import { Feather, AntDesign, EvilIcons } from '@expo/vector-icons'
 import SideBar from './SideBar';
@@ -13,9 +12,9 @@ import {ItemContext} from './../contexts/ItemContext'
 const { width, height } = Dimensions.get('window')
 
 const images = [
-  "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/front%20screen/discover%20items.png",
-  "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/front%20screen/discover%20shopping%20bags2.jpeg",
-  "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/front%20screen/summer-sale.png"
+  "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/front%20screen/discover%20items.png",
+  "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/front%20screen/discover%20shopping%20bags2.jpeg",
+  "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/front%20screen/summer-sale.png"
 ]
 
  const Home = ({navigation}) => {

@@ -2,10 +2,10 @@ import React from 'react';
 import { StyleSheet, Dimensions,TouchableOpacity, SafeAreaView, Image, } from 'react-native';
 
 const mortages = [
-    { id: 1, category: "Books", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/mortages/books-category-mortage.png" },
-    { id: 2, category: "Electronics", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/mortages/electronics-category-mortage.png" },
-    { id: 3, category: "Shoes", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/mortages/shoes-category-mortage.png" },
-    { id: 4, category: "Clothing", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/mortages/clothing-category-mortage.png" }
+    { id: 1, category: "Books", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/mortages/books-category-mortage.png" },
+    { id: 2, category: "Electronics", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/mortages/electronics-category-mortage.png" },
+    { id: 3, category: "Shoes", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/mortages/shoes-category-mortage.png" },
+    { id: 4, category: "Clothing", src: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/mortages/clothing-category-mortage.png" }
 ]
 
 const { width, height } = Dimensions.get('window');
