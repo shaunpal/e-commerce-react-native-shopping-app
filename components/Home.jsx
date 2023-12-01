@@ -76,19 +76,19 @@ const images = [
             <View style={styles.flashbannerview}>
                 <Image 
                 style={styles.flashbanner} 
-                source={ { uri: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/front%20screen/flash-sale.gif" } }
+                source={ { uri: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/front%20screen/flash-sale.gif" } }
                 />
             </View>
             <View style={{flexDirection: "row", justifyContent: "center", alignItems: "center", width: width, height: height/6, top: 20 }}>
                 <View>
                     <Image 
                         style={{ width: width/3, height: width/3, borderRadius: 8 }}
-                        source={ { uri: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/front%20screen/shoe-promo.gif" } }/>
+                        source={ { uri: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/front%20screen/shoe-promo.gif" } }/>
                 </View>
                 <View>
                     <Image 
                         style={{ width: width/2, height: width/3, marginLeft: 5, borderRadius: 10 }}
-                        source={ { uri: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-app/main/assets/pics/front%20screen/app-idea-animated-1.gif" } }/>
+                        source={ { uri: "https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/front%20screen/app-idea-animated-1.gif" } }/>
                 </View>
             </View>
         <StatusBar style="auto" />
