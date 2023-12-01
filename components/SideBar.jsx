@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
         zIndex: 1,
         left: 0,
         position: "absolute",
-        top: height/13,
+        top: height/9,
     },
     sidebarmenu: {
         backgroundColor: "white",
