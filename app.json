@@ -21,19 +21,21 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.shaunpal.shoppingappproject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "c0809be1-d25c-424f-9b8c-e57059b9cdb0"
-      }
-    },
     "runtimeVersion": "exposdk:49.0.0",
     "updates": {
-      "url": "https://u.expo.dev/c0809be1-d25c-424f-9b8c-e57059b9cdb0"
-    }
+      "url": "https://u.expo.dev/7f9dc3bc-a2e0-459d-b439-6221d0cce8c2"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7f9dc3bc-a2e0-459d-b439-6221d0cce8c2"
+      }
+    },
+    "owner": "shaunpal"
   }
 }
