@@ -15,7 +15,7 @@ const SideBar = ({isOpenMenu, navigation}) => {
                         <Image 
                             resizeMode={'contain'}
                             style={{ width: 200, height: 200 }}
-                            source={'../assets/logo.png'}
+                            source={'../assets/pics/logo.png'}
                         />
                     </View>
                     <View style={{ flexDirection: "row", alignItems: "center", marginBottom: 50 }}>
