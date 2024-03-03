@@ -27,7 +27,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "runtimeVersion": "exposdk:50.0.0",
+    "runtimeVersion": "exposdk:49.0.0",
     "updates": {
       "url": "https://u.expo.dev/7f9dc3bc-a2e0-459d-b439-6221d0cce8c2"
     },

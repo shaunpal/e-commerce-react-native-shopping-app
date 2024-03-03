@@ -15,7 +15,7 @@ const SideBar = ({isOpenMenu, navigation}) => {
                         <Image 
                             resizeMode={'contain'}
                             style={{ width: 200, height: 200 }}
-                            source={'../assets/pics/logo.png'}
+                            source={{uri: 'https://raw.githubusercontent.com/shaunpal/e-commerce-react-native-shopping-app/main/assets/pics/logo.png'}}
                         />
                     </View>
                     <View style={{ flexDirection: "row", alignItems: "center", marginBottom: 50 }}>
