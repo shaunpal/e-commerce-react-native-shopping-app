@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ShoppingAppNativeProject",
-    "slug": "ShoppingAppNativeProject",
+    "name": "ShoppingAppProject",
+    "slug": "shoppingappproject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
